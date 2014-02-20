@@ -18,3 +18,6 @@ To get started, open the index.html file to find instructions and examples. You'
   <li>Add another item to the bottom of this list!</li>
   <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
   <html>Kyle Zeccola</html>
+  
+  <html>My name is <b>Kyle Zeccola</b> and i am 21 years old.</html>
+  <html>I am a junior busiess management major.</html>
