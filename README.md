@@ -7,3 +7,4 @@ To get started, open the index.html file to find instructions and examples. You'
 
 ### headline text
 **bolded text**
+[Visit Google](www.google.com)
