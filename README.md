@@ -7,4 +7,5 @@ To get started, open the index.html file to find instructions and examples. You'
 
 ### Kyle Zeccola
 **Kyle Zeccola**
+![alt tag](<a href="http://tinypic.com?ref=20ze2hg" target="_blank"><img src="http://i62.tinypic.com/20ze2hg.jpg" border="0" alt="Image and video hosting by TinyPic"></a>)
 [Google](www.google.com)
