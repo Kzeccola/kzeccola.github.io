@@ -20,4 +20,4 @@ To get started, open the index.html file to find instructions and examples. You'
   <html>Kyle Zeccola</html>
   
   <html>My name is <b>Kyle Zeccola</b> and i am 21 years old.</html>
-  <html>I am a junior busiess management major.</html>
+  <html>I am a junior business management major.</html>
